@@ -1,6 +1,8 @@
 #include <Wire.h>
 #include <Adafruit_INA219.h>
 
+/*hola*/
+
 Adafruit_INA219 ina219;
 
 void setup(void) 
